@@ -2,3 +2,4 @@ cache/
 auth.json
 localdev/custom.el
 localdev/elpa
+*.elc
